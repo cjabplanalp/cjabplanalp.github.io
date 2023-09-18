@@ -13,28 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Cameron Abplanalp
+title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+  Personal website for Cameron Abplanalp, Senior at the University of Wisconsin-Madison graduating in Spring 2024.
+locale: en-US
+url: "https://cjabplanalp.github.io"
+# baseurl: "/home/" # see https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+github_username: cjabplanalp
+search: false
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
+permalink: /about/
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -58,34 +56,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Cameron Abplanalp"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "DS & iSci & CS @ UW-Madison '24"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https:cjabplanalp.github.io//"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cjabplanalp"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/cjabplanalp/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cjabplanalp"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/cjabplanalp/"
 
 defaults:
   # _posts

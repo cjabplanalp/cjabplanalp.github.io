@@ -10,4 +10,4 @@ Entering college, I planned to study Biochemistry. When I found it wasn't for me
 
 Since then, I've explored breadths of the field through coursework and study, and found that Data Science allows me to combine facets of myself through code: meticulous organization, efficiency, and creation. After I declared Data Science, I became passionate about the relationship between people and code, pushing me to also declare Information Science to further investigate the relationship between the two.
 
-In my free time, I love spending my time outdoors. I like warm weather, and in the warmer months, I like being by bodies of water to swim or finding a new basketball court to play with a group of friends. When it's colder, I love trying new restaurants, playing Rocket League, and walking on the ice of Lake Mendota in Madison.
+In my free time, I love spending my time outdoors. I like warm weather, and in the warmer months, I enjoy being by bodies of water to swim or finding a new basketball court to play with a group of friends. When it's colder, I love trying new restaurants, playing Rocket League, and walking on the ice of Lake Mendota in Madison.

@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: Home
+classes: wide
 ---
 
-Test test test
+Welcome to my website!

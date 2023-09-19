@@ -64,13 +64,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https:cjabplanalp.github.io//"
+      url: "https://cjabplanalp.github.io/"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cjabplanalp"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/cjabplanalp/"
+    - label: "Resume"
+      icon: "fas fa-fw fa-link"
+      url: "https://cjabplanalp.github.io/assets/files/abplanalp_resume.pdf"
 
 footer:
   links:

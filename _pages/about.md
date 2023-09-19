@@ -1,7 +1,6 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
-classes: wide
 ---
 
-Test test test
+don't use this

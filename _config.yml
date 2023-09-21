@@ -63,7 +63,7 @@ author:
   bio    : "DS & iSci & CS @ UW-Madison '24"
   location: "Madison, WI"
   links:
-    - label: "Resume"
+    - label: "RESUME"
       icon: "fas fa-fw fa-link"
       url: "https://cjabplanalp.github.io/assets/files/abplanalp_resume.pdf"
     - label: "Github"

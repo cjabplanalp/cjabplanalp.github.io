@@ -16,7 +16,7 @@ Since then, I've explored breadths of the field through coursework and study, an
 
 # Languages
 
-I have extensive experience with Python, and also experience with R, Java, MySQL, bash scripts, HTML/CSS, and JavaScript. Within Python, I further have experience deploying big data systems such as PySpark, Cassandra/CQL, Apache Hadoop/HDFS, and Apache Kafka with Docker. Recently, I've been learning Ruby and Jekyll, which is how this site is powered! 
+I have extensive experience with Python, and also experience with R, Java, MySQL, bash scripts, HTML/CSS, and JavaScript. Within Python, I further have experience deploying big data systems such as PySpark, Apache Cassandra/CQL, Apache Hadoop/HDFS, and Apache Kafka with Docker. Recently, I've been learning Ruby and Jekyll, which is how this site is powered! 
 
 # Interests
 

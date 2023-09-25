@@ -15,8 +15,10 @@ collection: projects
 
 Given an dataset of interactions with a laptop retail website, define a regression model using `scikit-learn` that estimates at least 75% accuracy of generating a sale based on `train` and `test` data. 
 
-Project specifications [here](https://github.com/cs320-wisc/s22/tree/main/p7).
-
 ## LINK
 
 Please find the project folder on my Github, linked [here](https://github.com/cjabplanalp/cs320/tree/main/sklearn_fit/data).
+
+## SPECIFICATIONS
+
+Project specifications [here](https://github.com/cs320-wisc/s22/tree/main/p7).

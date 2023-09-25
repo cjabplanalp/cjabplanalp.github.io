@@ -15,7 +15,7 @@ collection: projects
 
 Java 8 console application that implements a Red-Black Tree data structure to create a storage application that efficiently inserts, loads, and looks up data points (trading cards) based on their associated monetary value.
 
-Project specifications [here](https://github.com/cjabplanalp/TradingCardApp).
+Project specifications [here](https://github.com/cjabplanalp/TradingCardApp/blob/main/README.md).
 
 # LINK
 

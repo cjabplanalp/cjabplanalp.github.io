@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Cameron Abplanalp"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/me.jpeg"
   bio    : "DS & iSci & CS @ UW-Madison '24"
   location: "Madison, WI"
   links:

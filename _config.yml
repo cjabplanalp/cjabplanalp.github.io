@@ -127,9 +127,9 @@ defaults:
 # category_archive:
 #   type: liquid
 #   path: /projects/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+tag_archive:
+  type: liquid
+  path: /projects/
 
 collections:
   projects:
@@ -137,4 +137,4 @@ collections:
     permalink: /:collection/:path/
   experience:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/

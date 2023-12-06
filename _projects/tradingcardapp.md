@@ -10,7 +10,7 @@ toc_label: "Contents"
 toc_icon: "fas fa-sitemap"
 toc_sticky: true
 collection: projects
-# classes: wide
+tags: [Java, Junit, OOP, Make, Red-Black Tree]
 ---
 
 Java 8 console application that implements a Red-Black Tree data structure to create a storage application that efficiently inserts, loads, and looks up data points (trading cards) based on their associated monetary value.

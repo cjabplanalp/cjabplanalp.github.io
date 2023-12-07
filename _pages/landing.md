@@ -4,7 +4,7 @@ title: Welcome!
 classes: wide
 ---
 
-I'm Cameron Abplanalp, a senior at the University of Wisconsin-Madison studying Data Science, Information Science, and Computer Science. I'm an aspiring CS professional looking to code bridges between data and people.
+I'm Cameron, a senior at the University of Wisconsin-Madison studying Data Science, Information Science, and Computer Science. I'm an aspiring CS professional looking to code bridges between data and people.
 
 <style>
 
@@ -61,11 +61,22 @@ I'm Cameron Abplanalp, a senior at the University of Wisconsin-Madison studying 
       cursor: not-allowed;
     }
 
+    @media (max-width: 600px) {
+      .button-container {
+        text-align: center;
+      }
+
+      button {
+        margin: 20px auto;
+        display: block;
+        padding: 20px;\
+      }
+    }
+
   </style>
 
   <script>
     function redirectToPage(pageUrl) {
-      // Redirect to the specified page
       window.location.href = pageUrl;
     }
   </script>
@@ -75,4 +86,3 @@ I'm Cameron Abplanalp, a senior at the University of Wisconsin-Madison studying 
     <button onclick="redirectToPage('/projects/')">Explore Projects</button>
     <button onclick="redirectToPage('/contact/')">Contact Me!</button>
 </div>
-<br>

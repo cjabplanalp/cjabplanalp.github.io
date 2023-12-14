@@ -9,3 +9,5 @@ To deploy, run:
 ```
 bundle exec jekyll serve --livereload
 ```
+
+Contact form processing: [Formcarry](https://app.formcarry.com/)

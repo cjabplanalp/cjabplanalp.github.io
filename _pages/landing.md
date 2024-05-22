@@ -4,7 +4,9 @@ title: Welcome!
 classes: wide
 ---
 
-I'm Cameron, a senior at the University of Wisconsin-Madison studying Data Science, Information Science, and Computer Science. I'm an aspiring CS professional looking to code bridges between data and people.
+I'm Cameron, a recent graduate at the University of Wisconsin-Madison with degrees in Data Science, Information Science, and a minor in Computer Science. I'm an aspiring DS professional looking to code bridges between data and people.
+
+Check out <a href='https://cdis.wisc.edu/2024-graduation-spotlight-cameron-abplanalp/'>this article</a> about my time at UW-Madison!
 
 <style>
 

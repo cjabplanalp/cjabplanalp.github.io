@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 ---
 
-I am a senior at the University of Wisconsin-Madison expected to graduate Spring 2024. I double major in Data Science and Information Science, and I am receiving a certificate in Computer Science. My hometown is Evanston, Illinois, home to Northwestern University and just north of the City of Chicago.
+I am a recent graduate of the University of Wisconsin-Madison; I graduated in May 2024. I double majored in Data Science and Information Science, and I received a certificate in Computer Science. My hometown is Evanston, Illinois, home to Northwestern University and just north of the City of Chicago.
 
 Entering college, I planned to study Biochemistry. When I found it wasn't for me, I took a Computer Science course and immediately fell in love with coding without having any prior experience with it. 
 

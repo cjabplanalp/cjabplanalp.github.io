@@ -86,5 +86,5 @@ Give a quick read of <a href='https://cdis.wisc.edu/2024-graduation-spotlight-ca
 <div class="button-container">
     <button onclick="redirectToPage('../assets/files/abplanalp_resume.pdf')">View Resume</button>
     <button onclick="redirectToPage('/projects/')">Explore Projects</button>
-    <button onclick="redirectToPage('/contact/')">Contact Me!</button>
+    <button onclick="redirectToPage('/contact/')">Contact Me</button>
 </div>

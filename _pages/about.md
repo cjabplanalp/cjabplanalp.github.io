@@ -4,6 +4,32 @@ title: "About"
 classes: wide
 ---
 
+<style>
+    .image-container {
+    text-align: center;
+    }
+
+    .image-container img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    float: left;
+    margin: 60px 40px 80px 20px;
+    }
+
+    @media (max-width: 600px) {
+        .image-container img {
+            float: none;
+            margin: 20px 0 20px 0;
+            display: block;
+        }
+    }
+</style>
+
+<div class="image-container">
+    <img src="../assets/images/grad.jpeg" width="350">
+</div>
+
 I am a recent graduate of the University of Wisconsin-Madison; I graduated in May 2024. I double majored in Data Science and Information Science, and I received a certificate in Computer Science. My hometown is Evanston, Illinois, home to Northwestern University and just north of the City of Chicago.
 
 Entering college, I planned to study Biochemistry. When I found it wasn't for me, I took a Computer Science course and immediately fell in love with coding without having any prior experience with it. 

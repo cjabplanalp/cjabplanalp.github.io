@@ -4,7 +4,7 @@ title: "Contact"
 classes: wide
 ---
 
-Don't hesitate to reach out with any questions, concerns, or to collaborate!
+Please don't hesitate to reach out with any questions, concerns, or to collaborate!
 
 Send me an email by filling out the below form, or give me a call at <a href="tel:847-868-5033"><b>847-868-5033</b></a>.
 

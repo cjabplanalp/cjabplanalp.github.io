@@ -6,7 +6,7 @@ classes: wide
 
 I'm Cameron, a recent graduate at the University of Wisconsin-Madison with degrees in Data Science, Information Science, and a minor in Computer Science. I'm an aspiring DS professional looking to code bridges between data and people.
 
-Check out <a href='https://cdis.wisc.edu/2024-graduation-spotlight-cameron-abplanalp/'>this article</a> about my time at UW-Madison!
+Give a quick read of <a href='https://cdis.wisc.edu/2024-graduation-spotlight-cameron-abplanalp/'>this article</a> about my time at UW-Madison written by the School of Computer, Data, and Information Science!
 
 <style>
 
@@ -71,7 +71,7 @@ Check out <a href='https://cdis.wisc.edu/2024-graduation-spotlight-cameron-abpla
       button {
         margin: 20px auto;
         display: block;
-        padding: 20px;\
+        padding: 20px;
       }
     }
 
